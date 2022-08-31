@@ -4,7 +4,7 @@
 
 ---
 
-An IT enthusiast and Discord bot developer
+An IT enthusiast and Discord bot developer.
 
 ##
 
