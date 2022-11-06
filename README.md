@@ -10,7 +10,7 @@ An IT enthusiast and Discord bot developer.
 
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,html,css,django,angular,nodejs,spring,postgres,mysql,markdown,neovim,vscode,bash,git,linux" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,js,ts,java,c,cpp,html,css,django,angular,nodejs,spring,postgres,mysql,markdown,vscode,bash,git,linux" />
 </div>
 
 ---
