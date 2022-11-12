@@ -10,7 +10,7 @@ Discord bots dev
 
 <div align="auto" style="display: inline-block;">
    <h3 align="auto">Resources</h1>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,py,ruby,git,vscode,postgres,bash,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,py,bash,ruby,git,vscode,postgres,bash,linux&perline=5" />
 </div>
 
 ---
