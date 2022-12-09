@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Angits" src="https://avatars.githubusercontent.com/u/101424755?v=4">
 
-# Hi there i'm Angits 🦝
+# Hi there i'm Angits 🦇
 
 ---
 
