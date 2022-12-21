@@ -4,7 +4,7 @@
 
 ---
 
-Discord bots dev
+Discord bot developer
 
 ##
 
