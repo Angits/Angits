@@ -2,7 +2,7 @@
 
 # Hi there i'm Angits 🦝
 
-Discord bot developer.
+Software engineer.
 
 ---
 
